@@ -1,0 +1,4 @@
+// finish this function according to the following examples
+[*examples*]
+public class TryCode {
+  public static int Puzzle(int x1, int x2){

@@ -1,0 +1,10 @@
+TryCode.Puzzle("Mercury", "Neptune") = new string[] {"Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus"}
+TryCode.Puzzle("Jupiter", "Venus") = new string[] {"Earth", "Mars"}
+TryCode.Puzzle("Mercury", "Mercury") = new string[] {}
+TryCode.Puzzle("Saturn", "Neptune") = new string[] {"Uranus"}
+TryCode.Puzzle("Mars", "Mercury") = new string[] {"Venus", "Earth"}
+TryCode.Puzzle("Jupiter", "Earth") = new string[] {"Mars"}
+TryCode.Puzzle("Jupiter", "yKizk") = new string[] {}
+TryCode.Puzzle("Neptune", "Neptune") = new string[] {}
+TryCode.Puzzle("KhIRh", "Saturn") = new string[] {}
+TryCode.Puzzle("Earth", "Earth") = new string[] {}

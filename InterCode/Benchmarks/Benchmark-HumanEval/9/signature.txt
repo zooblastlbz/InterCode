@@ -1,0 +1,5 @@
+// finish this function according to the following examples
+[*examples*]
+using System;
+public class TryCode {
+  public static int[] Puzzle(int[] x1){

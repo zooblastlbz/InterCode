@@ -1,0 +1,10 @@
+TryCode.Puzzle(new double[] {6.6, 8.31, 2.78, 7.13, 8.25, 6.61, 2.95, 3.46}) = new double[] {6.6, 6.61}
+TryCode.Puzzle(new double[] {4.34, 4.36, 7.75, 6.28, 2.5, 1.49}) = new double[] {4.34, 4.36}
+TryCode.Puzzle(new double[] {5.5, 2.93, 5.88, 2.71, 7.71}) = new double[] {2.71, 2.93}
+TryCode.Puzzle(new double[] {1.21, 1.06, 3.14}) = new double[] {1.06, 1.21}
+TryCode.Puzzle(new double[] {8.03, 6.0, 5.58, 7.24, 1.16, 3.87, 8.76, 9.05}) = new double[] {8.76, 9.05}
+TryCode.Puzzle(new double[] {2.45, 6.99, 1.77}) = new double[] {1.77, 2.45}
+TryCode.Puzzle(new double[] {7.61, 3.84}) = new double[] {3.84, 7.61}
+TryCode.Puzzle(new double[] {1.91, 1.15, 8.01, 3.2, 6.71}) = new double[] {1.15, 1.91}
+TryCode.Puzzle(new double[] {4.95, 2.47, 5.49, 9.26}) = new double[] {4.95, 5.49}
+TryCode.Puzzle(new double[] {7.6, 8.66, 7.12}) = new double[] {7.12, 7.6}

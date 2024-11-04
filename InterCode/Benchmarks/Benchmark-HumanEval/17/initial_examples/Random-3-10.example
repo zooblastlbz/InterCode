@@ -1,0 +1,10 @@
+TryCode.Puzzle(".| o .| o| o| o|") = new int[] {1, 4, 1, 2, 2, 2}
+TryCode.Puzzle("o o .| .| o .| o o|") = new int[] {4, 4, 1, 1, 4, 1, 4, 2}
+TryCode.Puzzle("o| .| o o|") = new int[] {2, 1, 4, 2}
+TryCode.Puzzle("o| o| o o| .| o|") = new int[] {2, 2, 4, 2, 1, 2}
+TryCode.Puzzle("o| .|") = new int[] {2, 1}
+TryCode.Puzzle("o .| .| o o| .| o") = new int[] {4, 1, 1, 4, 2, 1, 4}
+TryCode.Puzzle("o| o| o o o") = new int[] {2, 2, 4, 4, 4}
+TryCode.Puzzle(".| .| .|") = new int[] {1, 1, 1}
+TryCode.Puzzle(".| o| o") = new int[] {1, 2, 4}
+TryCode.Puzzle("o| .|") = new int[] {2, 1}

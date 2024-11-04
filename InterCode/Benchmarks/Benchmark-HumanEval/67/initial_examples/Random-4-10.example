@@ -1,0 +1,10 @@
+TryCode.Puzzle("13 apples and 76 oranges", 96) = 7
+TryCode.Puzzle("39 apples and 0 oranges", 58) = 19
+TryCode.Puzzle("15 apples and 44 oranges", 77) = 18
+TryCode.Puzzle("30 apples and 4 oranges", 36) = 2
+TryCode.Puzzle("62 apples and 4 oranges", 74) = 8
+TryCode.Puzzle("17 apples and 68 oranges", 95) = 10
+TryCode.Puzzle("9 apples and 7 oranges", 28) = 12
+TryCode.Puzzle("2 apples and 10 oranges", 19) = 7
+TryCode.Puzzle("8 apples and 70 oranges", 79) = 1
+TryCode.Puzzle("24 apples and 12 oranges", 71) = 35

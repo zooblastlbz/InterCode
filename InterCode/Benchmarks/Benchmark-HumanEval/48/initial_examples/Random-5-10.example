@@ -1,0 +1,10 @@
+TryCode.Puzzle("dcaeeccc") = false
+TryCode.Puzzle("d") = true
+TryCode.Puzzle("dbebbdeabe") = false
+TryCode.Puzzle("aeceea") = false
+TryCode.Puzzle("bbacbdcac") = false
+TryCode.Puzzle("acebec") = false
+TryCode.Puzzle("dacec") = false
+TryCode.Puzzle("d") = true
+TryCode.Puzzle("eaaa") = false
+TryCode.Puzzle("aced") = false

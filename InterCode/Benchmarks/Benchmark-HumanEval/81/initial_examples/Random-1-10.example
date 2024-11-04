@@ -1,0 +1,10 @@
+TryCode.Puzzle(new double[] {0.77, 0.53, 3.26, 3.75}) = new string[] {"D", "D-", "B+", "A"}
+TryCode.Puzzle(new double[] {1.92, 0.86, 1.84, 0.19, 3.04, 1.61, 0.68, 2.25}) = new string[] {"C", "D", "C", "D-", "B+", "C-", "D-", "C+"}
+TryCode.Puzzle(new double[] {1.76}) = new string[] {"C"}
+TryCode.Puzzle(new double[] {2.5, 2.23, 1.74, 0.98, 3.92, 0.79, 2.63, 2.41, 2.43}) = new string[] {"B-", "C+", "C", "D", "A", "D", "B-", "B-", "B-"}
+TryCode.Puzzle(new double[] {1.93, 0.61, 0.68, 3.33, 2.14, 1.45, 2.13, 1.82}) = new string[] {"C", "D-", "D-", "A-", "C+", "C-", "C+", "C"}
+TryCode.Puzzle(new double[] {0.37, 0.79}) = new string[] {"D-", "D"}
+TryCode.Puzzle(new double[] {3.2, 3.16, 3.56, 1.35}) = new string[] {"B+", "B+", "A-", "C-"}
+TryCode.Puzzle(new double[] {2.79, 2.86, 2.84}) = new string[] {"B", "B", "B"}
+TryCode.Puzzle(new double[] {3.91}) = new string[] {"A"}
+TryCode.Puzzle(new double[] {0.23, 0.6, 3.94, 3.74}) = new string[] {"D-", "D-", "A", "A"}

@@ -1,0 +1,10 @@
+TryCode.Puzzle(-864) = new int[] {3, 0}
+TryCode.Puzzle(-342) = new int[] {2, 1}
+TryCode.Puzzle(287) = new int[] {2, 1}
+TryCode.Puzzle(-272) = new int[] {2, 1}
+TryCode.Puzzle(376) = new int[] {1, 2}
+TryCode.Puzzle(238) = new int[] {2, 1}
+TryCode.Puzzle(-103) = new int[] {1, 2}
+TryCode.Puzzle(201) = new int[] {2, 1}
+TryCode.Puzzle(-375) = new int[] {0, 3}
+TryCode.Puzzle(-495) = new int[] {1, 2}

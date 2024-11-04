@@ -1,0 +1,10 @@
+TryCode.Puzzle(new string[] {"5t8tjrz", "4lq0pgoayu3m4ud6", "sjlpi3ktp", "6xtbzhf7", "69i889cebpblnf", "x18mc98d", "bc7sfcvzjmr44dbhw7", "nb9hdrve09pctqj5sy", "1b", "d2o0"}, new string[] {"arglhvj5w5vuy0y9jb9", "s1d46o0ia7p3", "tq79xa7m9ecnyzkfg", "9564br364", "wz62f7qvsu9w"}) = new string[] {"arglhvj5w5vuy0y9jb9", "s1d46o0ia7p3", "tq79xa7m9ecnyzkfg", "9564br364", "wz62f7qvsu9w"}
+TryCode.Puzzle(new string[] {"mrgkgk7n2w38"}, new string[] {"jlmxv02ky"}) = new string[] {"jlmxv02ky"}
+TryCode.Puzzle(new string[] {"lz", "lfk", "10bwtyr4zwx9s9fn", "92vx6dpt", "3w1u9ve5490bvg", "3jdnc", "ug"}, new string[] {}) = new string[] {}
+TryCode.Puzzle(new string[] {"eo6lqh64pziyicly", "yjas42az1lx00i01o", "xwpbwoea28", "okkvjhgdw0zsx", "bmzgvyr42ab", "c", "fjjj8", "8zrh59a4tc4", "apmp"}, new string[] {"u", "c"}) = new string[] {"u", "c"}
+TryCode.Puzzle(new string[] {"bg0"}, new string[] {"sm8", "3esd0ov6n85", "cask0wvset72gkb", "dk46bz8au5fbyk2gf", "ckk9o3jgzmd", "cu9bdmn", "uq58i", "2m4y2mpr789lpsz1m", "bkkhv2to", "aba3le5c6"}) = new string[] {"bg0"}
+TryCode.Puzzle(new string[] {"p92bej629m", "lw6dutogm", "b9r3z5yy9dh7gunr", "4hqva268c4bpyx", "wlzzj5x", "l1y3iov2ar045v0zg50", "npq9u8wep00ef", "qi6sjf1dwoqs"}, new string[] {"b2e874"}) = new string[] {"b2e874"}
+TryCode.Puzzle(new string[] {"01qtrlaeyc", "on7hljz5fecu", "b4xs9p", "3m11lbwufko3g2i5v1", "eidq", "z7i1znsgen", "sthp0"}, new string[] {"vroutpzgjbpk4jnf8", "28mx2", "2jmj4knmtuu1b2", "f7rnzs7amq5ltfnpe84"}) = new string[] {"vroutpzgjbpk4jnf8", "28mx2", "2jmj4knmtuu1b2", "f7rnzs7amq5ltfnpe84"}
+TryCode.Puzzle(new string[] {"4443idkhjfrb5b", "8fdq0ftf2", "vv", "uzwq", "qidqul2cd", "21", "2gmu87fkbf3ai", "br6ddvn4r75nojo18s", "4e8srax6ro2y418fv7l"}, new string[] {}) = new string[] {}
+TryCode.Puzzle(new string[] {}, new string[] {"l12o2qd95qbx", "leqo", "jg73e9vetjn66p", "ylr3uw7km", "cugzm4guq1juhoh", "2a2xf", "ug8565kyn2i2rrk05", "mkkvq6btf1h6tty55", "uz6smm8fx6p"}) = new string[] {}
+TryCode.Puzzle(new string[] {"h", "q6v4p0x5siqjd4", "ucnqajibuu"}, new string[] {"od49h", "3i2jf5g58hgyyd8vf", "nhw4trzrsgjdvzxwi", "lvbv7ds", "e4vub9b5ac1s2"}) = new string[] {"h", "q6v4p0x5siqjd4", "ucnqajibuu"}

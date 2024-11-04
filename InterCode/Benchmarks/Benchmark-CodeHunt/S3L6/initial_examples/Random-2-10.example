@@ -1,0 +1,10 @@
+TryCode.Puzzle(new int[] {13}, new int[] {197}) = new int[] {13}
+TryCode.Puzzle(new int[] {172, 123, 173}, new int[] {158, 83, 93, 102, 88, 13, 224}) = new int[] {123, 172, 173}
+TryCode.Puzzle(new int[] {199}, new int[] {46, 185, 254, 184}) = new int[] {199}
+TryCode.Puzzle(new int[] {22, 144, 250, 195, 131, 214, 147}, new int[] {135, 189}) = new int[] {22, 131, 144, 147, 195, 214, 250}
+TryCode.Puzzle(new int[] {204, 49, 194}, new int[] {219, 175, 182, 249, 165, 229, 222}) = new int[] {49, 194, 204}
+TryCode.Puzzle(new int[] {187, 2, 171, 67, 36, 123, 188, 78}, new int[] {}) = new int[] {2, 36, 67, 78, 123, 171, 187, 188}
+TryCode.Puzzle(new int[] {212}, new int[] {2, 49, 224, 6, 251, 221, 247, 84, 107, 82}) = new int[] {212}
+TryCode.Puzzle(new int[] {67, 162, 80, 43, 175, 221, 125, 214, 173}, new int[] {59, 106, 64, 191, 49, 120}) = new int[] {43, 67, 80, 125, 162, 173, 175, 214, 221}
+TryCode.Puzzle(new int[] {59}, new int[] {210, 215}) = new int[] {59}
+TryCode.Puzzle(new int[] {172, 95, 69, 223, 117, 204, 48, 123, 57, 131}, new int[] {80, 229, 249, 227, 132, 191, 30}) = new int[] {48, 57, 69, 95, 117, 123, 131, 172, 204, 223}

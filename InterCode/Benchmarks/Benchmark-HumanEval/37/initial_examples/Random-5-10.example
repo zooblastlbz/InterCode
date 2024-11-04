@@ -1,0 +1,10 @@
+TryCode.Puzzle(new int[] {5, 9, 3, 5, 4}) = new int[] {3, 9, 4, 5, 5}
+TryCode.Puzzle(new int[] {7, 4, 8, 10}) = new int[] {7, 4, 8, 10}
+TryCode.Puzzle(new int[] {9, 8, 7, 3}) = new int[] {7, 8, 9, 3}
+TryCode.Puzzle(new int[] {2, 6, 9, 2, 7, 8}) = new int[] {2, 6, 7, 2, 9, 8}
+TryCode.Puzzle(new int[] {3, 4, 9, 9, 0, 4, 5, 1, 6, 0}) = new int[] {0, 4, 3, 9, 5, 4, 6, 1, 9, 0}
+TryCode.Puzzle(new int[] {7, 1, 2}) = new int[] {2, 1, 7}
+TryCode.Puzzle(new int[] {6, 4, 0}) = new int[] {0, 4, 6}
+TryCode.Puzzle(new int[] {9, 5, 1, 0, 9}) = new int[] {1, 5, 9, 0, 9}
+TryCode.Puzzle(new int[] {8, 0, 1, 5, 3}) = new int[] {1, 0, 3, 5, 8}
+TryCode.Puzzle(new int[] {4}) = new int[] {4}

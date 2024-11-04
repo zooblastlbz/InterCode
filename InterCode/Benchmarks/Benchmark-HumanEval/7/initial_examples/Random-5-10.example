@@ -1,0 +1,10 @@
+TryCode.Puzzle(new string[] {"aae", "bcbeabdc", "dbcccb", "bdbddccadbe", "eccccbb", "acadedddda"}, "a") = new string[] {"aae", "bcbeabdc", "bdbddccadbe", "acadedddda"}
+TryCode.Puzzle(new string[] {"aceeedaacebebbcbcaec", "baabbedeece", "ddabbbeaeaccacbedab", "dcaaaddaccaccaaba", "eecaccbbbbbce", "bcdecac", "aababcec", "bebbabaddeb", "eebedaca", "ebad"}, "a") = new string[] {"aceeedaacebebbcbcaec", "baabbedeece", "ddabbbeaeaccacbedab", "dcaaaddaccaccaaba", "eecaccbbbbbce", "bcdecac", "aababcec", "bebbabaddeb", "eebedaca", "ebad"}
+TryCode.Puzzle(new string[] {"baea", "cbacdbedeccadadcc", "acebceceedcebdcde"}, "c") = new string[] {"cbacdbedeccadadcc", "acebceceedcebdcde"}
+TryCode.Puzzle(new string[] {"dcebc", "ceeac", "dbeded", "aadbeea", "eabdaaebbcd", "dbbcbaddeebedeccb", "dabaeeeedd", "abaaaedaecececbde"}, "ad") = new string[] {"aadbeea", "dbbcbaddeebedeccb"}
+TryCode.Puzzle(new string[] {"bdcecccadd", "ddceddedbbcc", "bbdeceaa", "eabdc", "bcdecedbbcc", "ea", "cecadedcccdcadbaa", "dadbadeeadcede"}, "be") = new string[] {}
+TryCode.Puzzle(new string[] {"deebcd", "bcecacdbcecbbaa", "dccabdadccebbdbebed", "ac", "ccbb", "deeeceeadcaabdedbcaa", "bdab", "aebdecacdd"}, "dc") = new string[] {"dccabdadccebbdbebed", "deeeceeadcaabdedbcaa"}
+TryCode.Puzzle(new string[] {"ccbeecceedbdbe", "bcbbcacbcc"}, "ec") = new string[] {"ccbeecceedbdbe"}
+TryCode.Puzzle(new string[] {"acacceabae", "aaedcaaaadbddbcea", "edaadaacaaa", "bcccbcacebb", "cbcdbdbbdee", "eeeebdbdbcbdbea", "da", "babccddcb", "badceea"}, "ea") = new string[] {"acacceabae", "aaedcaaaadbddbcea", "eeeebdbdbcbdbea", "badceea"}
+TryCode.Puzzle(new string[] {"dacbcabeccbcae", "cdaaaaacddcabb", "bebcaabeacd", "ccdbaedebeddd"}, "d") = new string[] {"dacbcabeccbcae", "cdaaaaacddcabb", "bebcaabeacd", "ccdbaedebeddd"}
+TryCode.Puzzle(new string[] {"bdaededa", "becaaedceca", "ccdeeaabdaeed", "bacdcadeeaadabb", "aee", "aa"}, "cc") = new string[] {"ccdeeaabdaeed"}

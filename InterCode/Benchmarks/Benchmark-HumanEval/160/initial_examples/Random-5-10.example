@@ -1,0 +1,10 @@
+TryCode.Puzzle(new string[] {"*", "+", "*", "*"}, new int[] {-6, 6, 7, 1, 10}) = 34
+TryCode.Puzzle(new string[] {"+", "*", "*"}, new int[] {1, -6, -9, 1}) = 55
+TryCode.Puzzle(new string[] {"*", "*", "+", "+", "+", "-", "*", "-", "*"}, new int[] {-3, -4, 2, 4, 9, -6, -3, -7, -7, 3}) = 31
+TryCode.Puzzle(new string[] {"-", "*"}, new int[] {-3, -5, 3}) = 12
+TryCode.Puzzle(new string[] {"-", "-", "-"}, new int[] {4, -9, -7, 0}) = 20
+TryCode.Puzzle(new string[] {"*", "-", "*", "*", "-", "*"}, new int[] {3, 7, 0, -5, 3, 7, -1}) = 28
+TryCode.Puzzle(new string[] {"-", "+", "*", "*", "*", "-", "-"}, new int[] {0, -4, -8, 6, -2, 8, -7, 0}) = 779
+TryCode.Puzzle(new string[] {"-", "-", "-"}, new int[] {5, 0, -7, -9}) = 21
+TryCode.Puzzle(new string[] {"-", "+", "+"}, new int[] {7, -5, -4, -6}) = 2
+TryCode.Puzzle(new string[] {"+", "+", "*"}, new int[] {1, -1, -7, 3}) = -21

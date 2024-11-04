@@ -1,0 +1,10 @@
+TryCode.Puzzle(false, false, false) = false
+TryCode.Puzzle(true, true, false) = true
+TryCode.Puzzle(false, true, false) = false
+TryCode.Puzzle(true, true, false) = true
+TryCode.Puzzle(false, true, true) = true
+TryCode.Puzzle(true, true, true) = true
+TryCode.Puzzle(true, true, true) = true
+TryCode.Puzzle(true, false, false) = true
+TryCode.Puzzle(false, false, false) = false
+TryCode.Puzzle(true, false, false) = true

@@ -1,0 +1,10 @@
+TryCode.Puzzle("cherry cherry elderberry honeydew date apple", 5) = new string[] {"cherry", "cherry", "honeydew"}
+TryCode.Puzzle("cherry cherry honeydew honeydew honeydew date cherry grape", 2) = new string[] {"date"}
+TryCode.Puzzle("grape fig cherry grape banana banana fig banana fig", 3) = new string[] {"grape", "grape", "banana", "banana", "banana"}
+TryCode.Puzzle("fig apple grape honeydew honeydew cherry honeydew date cherry fig", 2) = new string[] {"fig", "date", "fig"}
+TryCode.Puzzle("banana honeydew elderberry apple grape banana", 3) = new string[] {"banana", "apple", "grape", "banana"}
+TryCode.Puzzle("apple banana cherry honeydew honeydew cherry date", 3) = new string[] {"apple", "banana"}
+TryCode.Puzzle("honeydew honeydew elderberry grape date honeydew elderberry fig", 2) = new string[] {"date", "fig"}
+TryCode.Puzzle("fig elderberry grape honeydew elderberry apple elderberry banana honeydew apple", 3) = new string[] {"grape", "apple", "banana", "apple"}
+TryCode.Puzzle("honeydew grape apple date banana cherry cherry elderberry", 3) = new string[] {"grape", "apple", "banana"}
+TryCode.Puzzle("grape banana date elderberry honeydew apple apple honeydew", 4) = new string[] {}

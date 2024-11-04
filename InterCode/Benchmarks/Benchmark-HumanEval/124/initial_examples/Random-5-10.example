@@ -1,0 +1,10 @@
+TryCode.Puzzle("36/18/2004") = false
+TryCode.Puzzle("7 19 2050") = false
+TryCode.Puzzle("3/1/2058") = false
+TryCode.Puzzle("32-4-2039") = false
+TryCode.Puzzle("30-2-2008") = false
+TryCode.Puzzle("29/7/2068") = false
+TryCode.Puzzle("24/14/2075") = false
+TryCode.Puzzle("29 17 2041") = false
+TryCode.Puzzle("19/6/2014") = false
+TryCode.Puzzle("23/19/2045") = false

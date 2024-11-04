@@ -1,0 +1,10 @@
+TryCode.Puzzle(new int[] {7, -1, -1, -8, -2, 2, -9, -4, 8, -8}) = -23
+TryCode.Puzzle(new int[] {3}) = 3
+TryCode.Puzzle(new int[] {-8}) = -8
+TryCode.Puzzle(new int[] {1, 8, -1, -4, -7, -1, -2, 1, 4, -5}) = -15
+TryCode.Puzzle(new int[] {7, -6, -3, 5, -10, -5}) = -19
+TryCode.Puzzle(new int[] {4, -1, -9, -8, 1, 10}) = -18
+TryCode.Puzzle(new int[] {-9, -6, 7, 4, -8, -5, -2, -5, 4, -1}) = -24
+TryCode.Puzzle(new int[] {-8, 4, -7, -5, -6}) = -22
+TryCode.Puzzle(new int[] {4, -1, -4, 9, 5}) = -5
+TryCode.Puzzle(new int[] {-7, 9, -9, 0, 5}) = -9

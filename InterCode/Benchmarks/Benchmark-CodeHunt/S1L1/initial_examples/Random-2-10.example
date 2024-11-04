@@ -1,0 +1,10 @@
+TryCode.Puzzle(52) = -10
+TryCode.Puzzle(94) = -52
+TryCode.Puzzle(-17) = 59
+TryCode.Puzzle(-10) = 52
+TryCode.Puzzle(-52) = 94
+TryCode.Puzzle(-2) = 44
+TryCode.Puzzle(21) = 21
+TryCode.Puzzle(61) = -19
+TryCode.Puzzle(79) = -37
+TryCode.Puzzle(-42) = 84

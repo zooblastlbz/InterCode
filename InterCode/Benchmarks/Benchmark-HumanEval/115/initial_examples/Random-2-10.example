@@ -1,0 +1,10 @@
+TryCode.Puzzle(new int[][] {new int[]{0, 1, 1, 1, 0, 1, 1, 0, 1, 1}, new int[]{1, 1, 1, 1, 1, 0, 1, 0, 0, 0}}, 5) = 4
+TryCode.Puzzle(new int[][] {new int[]{0, 0, 1, 0, 0, 0, 1, 0, 0}}, 7) = 1
+TryCode.Puzzle(new int[][] {new int[]{0, 1, 0}, new int[]{0, 1, 0}, new int[]{0, 1, 0}, new int[]{1, 0, 1}, new int[]{1, 0, 1}, new int[]{1, 1, 0}, new int[]{0, 0, 1}, new int[]{0, 1, 0}, new int[]{0, 1, 1}}, 9) = 9
+TryCode.Puzzle(new int[][] {new int[]{1, 1, 1, 1, 1, 0}, new int[]{1, 0, 0, 1, 0, 0}, new int[]{0, 1, 0, 1, 1, 0}, new int[]{0, 0, 1, 1, 0, 0}}, 5) = 4
+TryCode.Puzzle(new int[][] {new int[]{0, 1, 0, 0, 1}, new int[]{0, 0, 1, 0, 1}, new int[]{0, 0, 1, 0, 0}, new int[]{1, 1, 0, 1, 1}}, 7) = 4
+TryCode.Puzzle(new int[][] {new int[]{0, 1, 1, 1, 1, 1, 0, 0}, new int[]{1, 0, 1, 1, 0, 0, 0, 0}, new int[]{0, 0, 0, 1, 1, 1, 1, 1}}, 8) = 3
+TryCode.Puzzle(new int[][] {new int[]{1, 1, 0, 0, 1, 1, 1, 1, 0}, new int[]{0, 1, 0, 1, 1, 1, 1, 1, 1}, new int[]{1, 0, 0, 0, 1, 1, 0, 1, 1}, new int[]{0, 1, 1, 1, 0, 1, 0, 1, 0}, new int[]{0, 0, 0, 0, 0, 1, 1, 1, 1}, new int[]{1, 0, 0, 1, 0, 1, 1, 1, 1}, new int[]{0, 0, 1, 0, 0, 0, 1, 1, 1}}, 4) = 12
+TryCode.Puzzle(new int[][] {new int[]{0, 0, 1, 1, 0, 1, 0}, new int[]{0, 1, 0, 0, 0, 1, 1}, new int[]{1, 0, 1, 0, 1, 0, 0}, new int[]{0, 1, 0, 0, 0, 1, 0}, new int[]{0, 1, 0, 1, 0, 1, 0}, new int[]{0, 1, 1, 1, 0, 0, 1}, new int[]{1, 0, 0, 1, 1, 1, 0}}, 1) = 22
+TryCode.Puzzle(new int[][] {new int[]{1, 0, 0, 0, 0, 1, 1}}, 5) = 1
+TryCode.Puzzle(new int[][] {new int[]{1, 1, 1, 0, 0, 0, 1, 0, 0, 1}, new int[]{0, 1, 0, 1, 0, 0, 0, 0, 0, 1}, new int[]{0, 1, 1, 0, 0, 1, 0, 1, 1, 1}, new int[]{0, 1, 1, 1, 0, 1, 1, 0, 0, 0}, new int[]{0, 1, 1, 1, 0, 0, 1, 0, 0, 0}}, 5) = 6

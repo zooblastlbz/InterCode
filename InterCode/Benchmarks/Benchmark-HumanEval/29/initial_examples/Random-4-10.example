@@ -1,0 +1,10 @@
+TryCode.Puzzle(new string[] {}, "ca") = new string[] {}
+TryCode.Puzzle(new string[] {"adbbbcaad"}, "e") = new string[] {}
+TryCode.Puzzle(new string[] {"ced"}, "d") = new string[] {}
+TryCode.Puzzle(new string[] {"bacdc", "bdadadcadaedcecdbdec"}, "a") = new string[] {}
+TryCode.Puzzle(new string[] {"aacaeeabeede"}, "ce") = new string[] {}
+TryCode.Puzzle(new string[] {"bdeeebdaaadceadece"}, "e") = new string[] {}
+TryCode.Puzzle(new string[] {"e", "cceadabc"}, "c") = new string[] {"cceadabc"}
+TryCode.Puzzle(new string[] {"bdcddadcbcabda", "bbcbadbab", "cdcebeeacaba", "bdea"}, "e") = new string[] {}
+TryCode.Puzzle(new string[] {"", "cbae", "bbeaadcdacb", "", "beddccdbaebdb"}, "c") = new string[] {"cbae"}
+TryCode.Puzzle(new string[] {"caaeac", "bbcabaaebccebdebebce", "aedebbcdeadd", "bdde", "eccba"}, "e") = new string[] {"eccba"}

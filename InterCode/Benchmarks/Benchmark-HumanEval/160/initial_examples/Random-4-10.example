@@ -1,0 +1,10 @@
+TryCode.Puzzle(new string[] {"-", "*", "+", "+", "*"}, new int[] {-3, 1, -1, 5, -9, -7}) = 66
+TryCode.Puzzle(new string[] {"+", "*", "-", "+"}, new int[] {-9, -8, -1, -9, 5}) = 13
+TryCode.Puzzle(new string[] {"+", "-", "+"}, new int[] {0, 5, -7, 6}) = 18
+TryCode.Puzzle(new string[] {"*", "-", "*", "*", "+"}, new int[] {-7, 9, 6, 2, 2, 2}) = -85
+TryCode.Puzzle(new string[] {"-", "*", "*", "-", "-"}, new int[] {-8, 8, 2, 0, -3, 4}) = -9
+TryCode.Puzzle(new string[] {"-", "*", "*", "-", "-", "*"}, new int[] {1, 4, 6, 10, -8, 2, 7}) = -245
+TryCode.Puzzle(new string[] {"*", "*", "-", "*"}, new int[] {9, 0, 10, -6, 3}) = 18
+TryCode.Puzzle(new string[] {"-", "-", "+", "+", "-", "*", "*", "*"}, new int[] {-1, 10, 4, -4, 0, 4, 6, 4, -4}) = 365
+TryCode.Puzzle(new string[] {"+", "*", "*", "*", "-", "*", "*", "*", "+"}, new int[] {1, -2, -9, -9, -10, -7, 0, 10, -3, -3}) = 1618
+TryCode.Puzzle(new string[] {"+", "+", "*", "-", "+", "+", "-"}, new int[] {-7, 5, -3, 9, 0, 3, 4, -10}) = -12

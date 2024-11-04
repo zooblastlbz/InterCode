@@ -1,0 +1,10 @@
+TryCode.Puzzle(new double[] {0.42, 5.77, 2.34}, 7.91) = true
+TryCode.Puzzle(new double[] {0.41, 3.69, -0.21, -0.45, -7.31}, 9.22) = true
+TryCode.Puzzle(new double[] {4.17, -4.97, -3.79}, 5.6) = true
+TryCode.Puzzle(new double[] {-5.99, -4.8, 5.63}, 2.21) = true
+TryCode.Puzzle(new double[] {0.19, 0.05}, 3.19) = true
+TryCode.Puzzle(new double[] {-7.15, 7.95}, -3.67) = false
+TryCode.Puzzle(new double[] {1.75, 8.4, 1.65, -2.46, -4.74}, 6.91) = true
+TryCode.Puzzle(new double[] {-8.53, 7.87, -3.46, -7.82, -9.15}, -8.69) = false
+TryCode.Puzzle(new double[] {-3.41, 0.72, -8.92, 5.65, 6.74}, -2.6) = false
+TryCode.Puzzle(new double[] {6.0, -8.83}, -1.96) = false

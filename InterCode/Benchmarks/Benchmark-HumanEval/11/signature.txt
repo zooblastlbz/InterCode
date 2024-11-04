@@ -1,0 +1,7 @@
+// finish this function according to the following examples
+[*examples*]
+using System;
+using System.Linq;
+using System.Text;
+public class TryCode {
+  public static string Puzzle(string x1, string x2){

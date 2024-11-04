@@ -1,0 +1,6 @@
+// finish this function according to the following examples
+[*examples*]
+using System;
+using System.Linq;
+public class TryCode {
+  public static double[] Puzzle(double[] x1){

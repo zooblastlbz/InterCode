@@ -1,0 +1,10 @@
+TryCode.Puzzle(new int[] {0}) = true
+TryCode.Puzzle(new int[] {4, -4}) = true
+TryCode.Puzzle(new int[] {-4, 4, -4, 0, 1}) = false
+TryCode.Puzzle(new int[] {1, 1}) = true
+TryCode.Puzzle(new int[] {-3, -5, 3}) = false
+TryCode.Puzzle(new int[] {-2, -4, -2, -4}) = false
+TryCode.Puzzle(new int[] {3}) = true
+TryCode.Puzzle(new int[] {4, 3}) = true
+TryCode.Puzzle(new int[] {2, 0}) = true
+TryCode.Puzzle(new int[] {5}) = true

@@ -1,0 +1,10 @@
+TryCode.Puzzle(")(((())((") = 0
+TryCode.Puzzle("(())())))()") = 0
+TryCode.Puzzle("(((()((()(((") = 0
+TryCode.Puzzle("((((())(()))(") = 0
+TryCode.Puzzle(")()(())()((((()(") = 0
+TryCode.Puzzle(")()()(((((())()") = 0
+TryCode.Puzzle("(()))()") = 0
+TryCode.Puzzle("))()(()())()())))") = 0
+TryCode.Puzzle(")(()))(((") = 0
+TryCode.Puzzle(")))()((())") = 0

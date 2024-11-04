@@ -1,0 +1,10 @@
+TryCode.Puzzle('x') = false
+TryCode.Puzzle('z') = false
+TryCode.Puzzle('a') = true
+TryCode.Puzzle('b') = false
+TryCode.Puzzle('n') = true
+TryCode.Puzzle('t') = false
+TryCode.Puzzle('f') = false
+TryCode.Puzzle('t') = false
+TryCode.Puzzle('x') = false
+TryCode.Puzzle('y') = false

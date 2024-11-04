@@ -1,0 +1,10 @@
+TryCode.Puzzle(103) = new int[] {1, 5, 23, 35, 53, 61, 103, 155, 167, 175, 233, 251, 263, 283, 319, 325, 377, 395, 425, 433, 445, 479, 577, 593, 719, 911, 1079, 1367, 1619, 2051, 2429, 3077}
+TryCode.Puzzle(49) = new int[] {1, 5, 7, 11, 13, 17, 37, 49}
+TryCode.Puzzle(26) = new int[] {1, 5, 13}
+TryCode.Puzzle(61) = new int[] {1, 5, 23, 35, 53, 61}
+TryCode.Puzzle(90) = new int[] {1, 5, 13, 17, 45}
+TryCode.Puzzle(102) = new int[] {1, 5, 11, 13, 17, 29, 51, 77}
+TryCode.Puzzle(85) = new int[] {1, 85}
+TryCode.Puzzle(138) = new int[] {1, 5, 13, 69}
+TryCode.Puzzle(132) = new int[] {1, 5, 11, 13, 17, 19, 25, 29, 33}
+TryCode.Puzzle(92) = new int[] {1, 5, 23, 35, 53}

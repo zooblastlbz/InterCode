@@ -1,0 +1,10 @@
+TryCode.Puzzle(new int[][] {new int[]{1, 0, 0, 1, 0, 0, 1}, new int[]{1, 1, 0, 1, 1, 0, 0}, new int[]{1, 1, 1, 0, 0, 0, 1}}, 7) = 3
+TryCode.Puzzle(new int[][] {new int[]{1}, new int[]{1}, new int[]{1}, new int[]{1}, new int[]{0}, new int[]{1}, new int[]{1}}, 6) = 6
+TryCode.Puzzle(new int[][] {new int[]{1, 0, 1, 0, 0, 0, 1, 0, 1}, new int[]{0, 1, 0, 1, 0, 0, 0, 0, 0}, new int[]{1, 0, 0, 0, 1, 1, 1, 1, 1}, new int[]{0, 1, 1, 0, 1, 1, 0, 0, 1}, new int[]{1, 1, 0, 1, 1, 1, 1, 1, 0}}, 7) = 5
+TryCode.Puzzle(new int[][] {new int[]{1, 1, 1, 0, 0, 1, 0, 0, 0}, new int[]{0, 1, 0, 1, 0, 0, 1, 1, 1}, new int[]{0, 0, 0, 1, 1, 0, 1, 1, 1}, new int[]{0, 0, 0, 0, 1, 1, 1, 0, 1}, new int[]{0, 0, 0, 0, 0, 0, 0, 0, 0}, new int[]{1, 1, 0, 1, 0, 0, 1, 0, 0}, new int[]{0, 0, 0, 0, 0, 1, 0, 1, 1}}, 9) = 6
+TryCode.Puzzle(new int[][] {new int[]{1, 0, 1, 1, 1, 0, 0, 1, 0}, new int[]{0, 0, 1, 1, 0, 1, 0, 1, 1}, new int[]{0, 1, 0, 0, 0, 1, 0, 1, 1}, new int[]{1, 0, 0, 1, 1, 1, 1, 0, 1}, new int[]{1, 1, 0, 0, 0, 1, 1, 1, 1}}, 2) = 14
+TryCode.Puzzle(new int[][] {new int[]{0, 0, 0, 1, 1, 0, 0, 0}, new int[]{1, 0, 1, 0, 0, 0, 0, 0}, new int[]{1, 1, 1, 0, 1, 0, 0, 1}, new int[]{1, 1, 1, 1, 1, 1, 1, 1}, new int[]{1, 1, 1, 0, 0, 0, 0, 0}, new int[]{0, 0, 1, 0, 0, 0, 0, 0}, new int[]{0, 1, 0, 1, 1, 1, 0, 0}, new int[]{1, 0, 0, 0, 1, 0, 1, 1}}, 2) = 16
+TryCode.Puzzle(new int[][] {new int[]{0, 1, 1, 1}, new int[]{0, 1, 1, 1}}, 4) = 2
+TryCode.Puzzle(new int[][] {new int[]{1, 1, 1, 0}, new int[]{0, 1, 1, 1}, new int[]{1, 1, 1, 1}, new int[]{1, 0, 1, 0}, new int[]{1, 0, 0, 0}, new int[]{0, 0, 0, 0}, new int[]{0, 0, 1, 1}, new int[]{0, 1, 1, 1}, new int[]{1, 1, 0, 1}}, 7) = 8
+TryCode.Puzzle(new int[][] {new int[]{1, 1, 0, 0, 1, 0, 0}, new int[]{0, 1, 0, 1, 0, 1, 1}, new int[]{1, 0, 0, 0, 0, 1, 1}, new int[]{1, 1, 1, 0, 0, 0, 1}, new int[]{0, 1, 1, 0, 1, 1, 0}, new int[]{1, 0, 0, 0, 0, 1, 1}, new int[]{1, 1, 0, 1, 0, 0, 1}, new int[]{1, 1, 1, 1, 0, 0, 1}, new int[]{0, 1, 0, 1, 0, 0, 0}, new int[]{0, 1, 1, 1, 1, 1, 1}}, 10) = 10
+TryCode.Puzzle(new int[][] {new int[]{1, 0, 0, 0, 1, 1, 0, 1, 1}}, 6) = 1

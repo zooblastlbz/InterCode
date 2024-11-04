@@ -1,0 +1,10 @@
+TryCode.Puzzle("(())()") = new string[] {"(())", "()"}
+TryCode.Puzzle("(((()(()()))))(())()") = new string[] {"(((()(()()))))", "(())", "()"}
+TryCode.Puzzle("(())(())()()") = new string[] {"(())", "(())", "()", "()"}
+TryCode.Puzzle("(()())") = new string[] {"(()())"}
+TryCode.Puzzle("((())(()))") = new string[] {"((())(()))"}
+TryCode.Puzzle("(()())()") = new string[] {"(()())", "()"}
+TryCode.Puzzle("()()") = new string[] {"()", "()"}
+TryCode.Puzzle("(())(())(())()()()") = new string[] {"(())", "(())", "(())", "()", "()", "()"}
+TryCode.Puzzle("()((()))()(())") = new string[] {"()", "((()))", "()", "(())"}
+TryCode.Puzzle("(()()((())(()))())()") = new string[] {"(()()((())(()))())", "()"}

@@ -1,0 +1,10 @@
+TryCode.Puzzle(9, 0, 6) = 3
+TryCode.Puzzle(-17, 5, 1) = 0
+TryCode.Puzzle(12, 11, 2) = 1
+TryCode.Puzzle(0, 4, 7) = 3
+TryCode.Puzzle(11, -9, 7) = -5
+TryCode.Puzzle(-10, 15, 4) = -3
+TryCode.Puzzle(4, 13, 8) = 7
+TryCode.Puzzle(-10, -9, 5) = 3
+TryCode.Puzzle(13, -4, 4) = -1
+TryCode.Puzzle(-15, -13, 3) = 0

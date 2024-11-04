@@ -1,0 +1,6 @@
+// finish this function according to the following examples
+[*examples*]
+using System.Collections.Generic;
+using System;
+public class TryCode {
+  public static int[] Puzzle(int[] a, int[] f) {

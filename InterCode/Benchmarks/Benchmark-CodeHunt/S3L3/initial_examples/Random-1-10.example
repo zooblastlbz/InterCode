@@ -1,0 +1,10 @@
+TryCode.Puzzle(new int[] {46, 63, 60, 55, 62}, 3) = 62
+TryCode.Puzzle(new int[] {100, 40, 10, 33, 80, 9, 43, 68}, 5) = 68
+TryCode.Puzzle(new int[] {34, 54, 22, 42, 80}, 0) = 22
+TryCode.Puzzle(new int[] {68, 80, 98, 25, 95}, 2) = 80
+TryCode.Puzzle(new int[] {91, 47, 69, 88, 18, 47, 6}, 5) = 88
+TryCode.Puzzle(new int[] {64, 66, 17, 5, 13, 42}, 4) = 64
+TryCode.Puzzle(new int[] {52, 7, 43, 75, 82, 67, 77, 54, 18, 86}, 1) = 18
+TryCode.Puzzle(new int[] {12, 24, 48, 17, 10, 46, 94, 21, 74, 71}, 5) = 46
+TryCode.Puzzle(new int[] {55, 35, 87, 67, 45, 1, 56, 60}, 4) = 56
+TryCode.Puzzle(new int[] {53, 62, 94, 48, 46, 45, 11, 44, 41}, 5) = 48

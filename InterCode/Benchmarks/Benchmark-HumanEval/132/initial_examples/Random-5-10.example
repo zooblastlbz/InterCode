@@ -1,0 +1,10 @@
+TryCode.Puzzle("[[[[") = false
+TryCode.Puzzle("]]]]]]") = false
+TryCode.Puzzle("") = false
+TryCode.Puzzle("]][]][]") = false
+TryCode.Puzzle("[][][][][[[[[]") = true
+TryCode.Puzzle("][][") = false
+TryCode.Puzzle("][][[][][[][") = true
+TryCode.Puzzle("[[][]][") = true
+TryCode.Puzzle("]][[]][[]][[]]]") = true
+TryCode.Puzzle("]]]]][]]]") = false

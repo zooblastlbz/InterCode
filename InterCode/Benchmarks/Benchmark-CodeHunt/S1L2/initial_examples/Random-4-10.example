@@ -1,0 +1,10 @@
+TryCode.Puzzle(6) = 23
+TryCode.Puzzle(-20) = -3
+TryCode.Puzzle(-8) = 9
+TryCode.Puzzle(-57) = -40
+TryCode.Puzzle(9) = 26
+TryCode.Puzzle(14) = 31
+TryCode.Puzzle(-44) = -27
+TryCode.Puzzle(-6) = 11
+TryCode.Puzzle(49) = 66
+TryCode.Puzzle(71) = 88

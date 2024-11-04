@@ -1,0 +1,23 @@
+{
+    'S1L1': 'int: int',
+    'S1L2': 'int: int',
+    'S1L3': 'bool, bool, bool: bool',
+    'S1L4': 'int, int: bool',
+    'S1L5': 'int[]: int',
+    'S1L6': 'string: int',
+    'S2L2': 'string: int',
+    'S2L4': 'int, int: int',
+    'S2L5': 'int[]: int',
+    'S2L6': 'int: string',
+    'S3L1': 'int[], int: int[]',
+    'S3L2': 'int: int',
+    'S3L3': 'int[], int: int',
+    'S3L4': 'char: bool',
+    'S3L5': 'int, int: int[][]',
+    'S3L6': 'int[], int[]: int[]',
+    'S4L1': 'int: int',
+    'S4L2': 'int, int: int',
+    'S4L3': 'int[], int[]: int[]',
+    'S4L5': 'int, int, int: int',
+    'S4L6': 'string: string'
+}

@@ -1,0 +1,1133 @@
+[
+    {
+        "name": "0",
+        "Inputtype": ["double array","double"],
+        "Outputtype": ["boolean"],
+        "type":["array","math"]
+    },
+    {
+        "name": "1",
+        "Inputtype": ["string"],
+        "Outputtype": ["string array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "2",
+        "Inputtype": ["double"],
+        "Outputtype": ["double"],
+        "type":["math"]
+    },
+    {
+        "name": "3",
+        "Inputtype": ["int array"],
+        "Outputtype": ["boolean"],
+        "type":["array","math"]
+    },
+    {
+        "name": "4",
+        "Inputtype": ["double array"],
+        "Outputtype": ["double"],
+        "type":["array","math"]
+    },
+    {
+        "name": "5",
+        "Inputtype": ["int array","int"],
+        "Outputtype": ["int array"],
+        "type":["math","array"]
+    },
+    {
+        "name": "6",
+        "Inputtype": ["string array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "7",
+        "Inputtype": ["string array","string"],
+        "Outputtype": ["string array"],
+        "type":["array","string"]
+    },
+    {
+        "name": "8",
+        "Inputtype": ["int array"],
+        "Outputtype": ["tuple(int,int)"],
+        "type":["array","math"]
+    },
+    {
+        "name": "9",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","math"]
+    },
+    {
+        "name": "10",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "11",
+        "Inputtype": ["string","string"],
+        "Outputtype": ["string"],
+        "type":["string","math"]
+    },
+    {
+        "name": "12",
+        "Inputtype": ["string array"],
+        "Outputtype": ["string"],
+        "type":["array","string"]
+    },
+    {
+        "name": "13",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "14",
+        "Inputtype": ["string"],
+        "Outputtype": ["string array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "15",
+        "Inputtype": ["int"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "16",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "17",
+        "Inputtype": ["string"],
+        "Outputtype": ["int array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "18",
+        "Inputtype": ["string","string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "19",
+        "Inputtype": ["string array"],
+        "Outputtype": ["string array"],
+        "type":["string","sort"]
+    },
+    {
+        "name": "20",
+        "Inputtype": ["double array"],
+        "Outputtype": ["double array"],
+        "type":["math","array"]
+    },
+    {
+        "name": "21",
+        "Inputtype": ["double array"],
+        "Outputtype": ["double array"],
+        "type":["array","math"]
+    },
+    {
+        "name": "22",
+        "Inputtype": ["object array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "23",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "24",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "25",
+        "Inputtype": ["int"],
+        "Outputtype": ["int array"],
+        "type":["math","array"]
+    },
+    {
+        "name": "26",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "27",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "28",
+        "Inputtype": ["string array"],
+        "Outputtype": ["string"],
+        "type":["string","array"]
+    },
+    {
+        "name": "29",
+        "Inputtype": ["string array","string"],
+        "Outputtype": ["string array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "30",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","math"]
+    },
+    {
+        "name": "31",
+        "Inputtype": ["int"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "32",
+        "Inputtype": ["double array","double"],
+        "Outputtype": ["double"],
+        "type":["math","array"]
+    },
+    {
+        "name": "33",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "34",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "35",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array","math"]
+    },
+    {
+        "name": "36",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "37",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "38",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "39",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "40",
+        "Inputtype": ["int array"],
+        "Outputtype": ["boolean"],
+        "type":["array","math"]
+    },
+    {
+        "name": "41",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "42",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "43",
+        "Inputtype": ["int array"],
+        "Outputtype": ["boolean"],
+        "type":["array"]
+    },
+    {
+        "name": "44",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["string"],
+        "type":["math"]
+    },
+    {
+        "name": "45",
+        "Inputtype": ["double","double"],
+        "Outputtype": ["double"],
+        "type":["math"]
+    },
+    {
+        "name": "46",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "47",
+        "Inputtype": ["int array"],
+        "Outputtype": ["double"],
+        "type":["sort","math"]
+    },
+    {
+        "name": "48",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "49",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "50",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "51",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "52",
+        "Inputtype": ["int array","int"],
+        "Outputtype": ["boolean"],
+        "type":["array"]
+    },
+    {
+        "name": "53",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "54",
+        "Inputtype": ["string","string"],
+        "Outputtype": ["boolean"],
+        "type":["string","hash"]
+    },
+    {
+        "name": "55",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "56",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "57",
+        "Inputtype": ["int array"],
+        "Outputtype": ["boolean"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "58",
+        "Inputtype": ["int array","int array"],
+        "Outputtype": ["int array"],
+        "type":["sort","array"]
+    },
+    {
+        "name": "59",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "60",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "61",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "62",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["math","array"]
+    },
+    {
+        "name": "63",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "64",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "65",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "66",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "67",
+        "Inputtype": ["string","int"],
+        "Outputtype": ["int"],
+        "type":["string","math"]
+    },
+    {
+        "name": "68",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","tree"]
+    },
+    {
+        "name": "69",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array"]
+    },
+    {
+        "name": "70",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "71",
+        "Inputtype": ["double","double","double"],
+        "Outputtype": ["double"],
+        "type":["math"]
+    },
+    {
+        "name": "72",
+        "Inputtype": ["int array","int"],
+        "Outputtype": ["boolean"],
+        "type":["array"]
+    },
+    {
+        "name": "73",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array"]
+    },
+    {
+        "name": "74",
+        "Inputtype": ["string array","string array"],
+        "Outputtype": ["string array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "75",
+        "Inputtype": ["int"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "76",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "77",
+        "Inputtype": ["int"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "78",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string","math"]
+    },
+    {
+        "name": "79",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["math"]
+    },
+    {
+        "name": "80",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "81",
+        "Inputtype": ["double array"],
+        "Outputtype": ["string array"],
+        "type":["array","string"]
+    },
+    {
+        "name": "82",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string","math"]
+    },
+    {
+        "name": "83",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "84",
+        "Inputtype": ["int"],
+        "Outputtype": ["string"],
+        "type":["math","string"]
+    },
+    {
+        "name": "85",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array"]
+    },
+    {
+        "name": "86",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string","sort"]
+    },
+    {
+        "name": "87",
+        "Inputtype": ["int array array","int"],
+        "Outputtype": ["tuple(int,int) array"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "88",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "89",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "90",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int?"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "91",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "92",
+        "Inputtype": ["int","int","int"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "93",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "94",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["math","array"]
+    },
+    {
+        "name": "95",
+        "Inputtype": ["dictionary(string,string)"],
+        "Outputtype": ["boolean"],
+        "type":["dictionary","string"]
+    },
+    {
+        "name": "96",
+        "Inputtype": ["int"],
+        "Outputtype": ["int array"],
+        "type":["math","array"]
+    },
+    {
+        "name": "97",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "98",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "99",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["math","string"]
+    },
+    {
+        "name": "100",
+        "Inputtype": ["int"],
+        "Outputtype": ["int array"],
+        "type":["math","array"]
+    },
+    {
+        "name": "101",
+        "Inputtype": ["string"],
+        "Outputtype": ["string array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "102",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "103",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["string"],
+        "type":["math","string"]
+    },
+    {
+        "name": "104",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","sort","math"]
+    },
+    {
+        "name": "105",
+        "Inputtype": ["int array"],
+        "Outputtype": ["string array"],
+        "type":["array","string","sort"]
+    },
+    {
+        "name": "106",
+        "Inputtype": ["int"],
+        "Outputtype": ["int array"],
+        "type":["array","math"]
+    },
+    {
+        "name": "107",
+        "Inputtype": ["int"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "108",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array","math"]
+    },
+    {
+        "name": "109",
+        "Inputtype": ["int array"],
+        "Outputtype": ["boolean"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "110",
+        "Inputtype": ["int array","int array"],
+        "Outputtype": ["string"],
+        "type":["array","string"]
+    },
+    {
+        "name": "111",
+        "Inputtype": ["string"],
+        "Outputtype": ["dictionary(string,int)"],
+        "type":["dictionary","string"]
+    },
+    {
+        "name": "112",
+        "Inputtype": ["string","string"],
+        "Outputtype": ["tuple(string,bool)"],
+        "type":["string"]
+    },
+    {
+        "name": "113",
+        "Inputtype": ["string array"],
+        "Outputtype": ["string array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "114",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array","math"]
+    },
+    {
+        "name": "115",
+        "Inputtype": ["int array array","int"],
+        "Outputtype": ["int"],
+        "type":["math","array"]
+    },
+    {
+        "name": "116",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "117",
+        "Inputtype": ["string","int"],
+        "Outputtype": ["string array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "118",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "119",
+        "Inputtype": ["string array"],
+        "Outputtype": ["string"],
+        "type":["string","array"]
+    },
+    {
+        "name": "120",
+        "Inputtype": ["int array","int"],
+        "Outputtype": ["int array"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "121",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array"]
+    },
+    {
+        "name": "122",
+        "Inputtype": ["int array","int"],
+        "Outputtype": ["int"],
+        "type":["array"]
+    },
+    {
+        "name": "123",
+        "Inputtype": ["int"],
+        "Outputtype": ["int array"],
+        "type":["array","math","sort"]
+    },
+    {
+        "name": "124",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "125",
+        "Inputtype": ["string"],
+        "Outputtype": ["object"],
+        "type":["string"]
+    },
+    {
+        "name": "126",
+        "Inputtype": ["int array"],
+        "Outputtype": ["boolean"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "127",
+        "Inputtype": ["int array" ,"int array"],
+        "Outputtype": ["string"],
+        "type":["math"]
+    },
+    {
+        "name": "128",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array","math"]
+    },
+    {
+        "name": "129",
+        "Inputtype": ["int array array","int"],
+        "Outputtype": ["int array"],
+        "type":["array","graph"]
+    },
+    {
+        "name": "130",
+        "Inputtype": ["int"],
+        "Outputtype": ["double array"],
+        "type":["array","math"]
+    },
+    {
+        "name": "131",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "132",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "133",
+        "Inputtype": ["double array"],
+        "Outputtype": ["double"],
+        "type":["math","array"]
+    },
+    {
+        "name": "134",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "135",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array"]
+    },
+    {
+        "name": "136",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "137",
+        "Inputtype": ["object","object"],
+        "Outputtype": ["object"],
+        "type":["string"]
+    },
+    {
+        "name": "138",
+        "Inputtype": ["int"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "139",
+        "Inputtype": ["int"],
+        "Outputtype": ["BigInteger"],
+        "type":["math"]
+    },
+    {
+        "name": "140",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "141",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "142",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "143",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string","math"]
+    },
+    {
+        "name": "144",
+        "Inputtype": ["string","string"],
+        "Outputtype": ["boolean"],
+        "type":["string","math"]
+    },
+    {
+        "name": "145",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int array"],
+        "type":["array","sort","math"]
+    },
+    {
+        "name": "146",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array","math"]
+    },
+    {
+        "name": "147",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "148",
+        "Inputtype": ["string","string"],
+        "Outputtype": ["string array"],
+        "type":["string","array"]
+    },
+    {
+        "name": "149",
+        "Inputtype": ["string array"],
+        "Outputtype": ["string array"],
+        "type":["string","array","sort"]
+    },
+    {
+        "name": "150",
+        "Inputtype": ["int","int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "151",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array","math"]
+    },
+    {
+        "name": "152",
+        "Inputtype": ["int array","int array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "153",
+        "Inputtype": ["string","string array"],
+        "Outputtype": ["string"],
+        "type":["string","array"]
+    },
+    {
+        "name": "154",
+        "Inputtype": ["string","string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "155",
+        "Inputtype": ["int"],
+        "Outputtype": ["int array"],
+        "type":["math"]
+    },
+    {
+        "name": "156",
+        "Inputtype": ["int"],
+        "Outputtype": ["string"],
+        "type":["string","math"]
+    },
+    {
+        "name": "157",
+        "Inputtype": ["int","int","int"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "158",
+        "Inputtype": ["string array"],
+        "Outputtype": ["string"],
+        "type":["array","string","sort"]
+    },
+    {
+        "name": "159",
+        "Inputtype": ["int","int","int"],
+        "Outputtype": ["int array"],
+        "type":["array","math"]
+    },
+    {
+        "name": "160",
+        "Inputtype": ["string array","int array"],
+        "Outputtype": ["double"],
+        "type":["array","string","stack"]
+    },
+    {
+        "name": "161",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "162",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["cryptography"]
+    },
+    {
+        "name": "163",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "S1L1",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "S1L2",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "S1L3",
+        "Inputtype": ["boolean","boolean","boolean"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "S1L4",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["boolean"],
+        "type":["math"]
+    },
+    {
+        "name": "S1L5",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array"]
+    },
+    {
+        "name": "S1L6",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "S2L1",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array","math"]
+    },
+    {
+        "name": "S2L2",
+        "Inputtype": ["string"],
+        "Outputtype": ["int"],
+        "type":["string"]
+    },
+    {
+        "name": "S2L3",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string"]
+    },
+    {
+        "name": "S2L4",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "S2L5",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array"]
+    },
+    {
+        "name": "S2L6",
+        "Inputtype": ["int"],
+        "Outputtype": ["string"],
+        "type":["string","math"]
+    },
+    {
+        "name": "S3L1",
+        "Inputtype": ["int array","int"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "S3L2",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "S3L3",
+        "Inputtype": ["int array","int"],
+        "Outputtype": ["int"],
+        "type":["array","sort"]
+    },
+    {
+        "name": "S3L4",
+        "Inputtype": ["string"],
+        "Outputtype": ["boolean"],
+        "type":["string"]
+    },
+    {
+        "name": "S3L5",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int array array"],
+        "type":["array","graph"]
+    },
+    {
+        "name": "S3L6",
+        "Inputtype": ["int array","int array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "S4L1",
+        "Inputtype": ["int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "S4L2",
+        "Inputtype": ["int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "S4L3",
+        "Inputtype": ["int array","int array"],
+        "Outputtype": ["int array"],
+        "type":["array"]
+    },
+    {
+        "name": "S4L4",
+        "Inputtype": ["int array"],
+        "Outputtype": ["int"],
+        "type":["array","math"]
+    },
+    {
+        "name": "S4L5",
+        "Inputtype": ["int","int","int"],
+        "Outputtype": ["int"],
+        "type":["math"]
+    },
+    {
+        "name": "S4L6",
+        "Inputtype": ["string"],
+        "Outputtype": ["string"],
+        "type":["string","math"]
+    }
+]
+
+
+

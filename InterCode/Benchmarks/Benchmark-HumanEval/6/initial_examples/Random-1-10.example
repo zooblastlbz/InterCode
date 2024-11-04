@@ -1,0 +1,10 @@
+TryCode.Puzzle("(()) (((()))) (((()))) () (())") = new int[] {2, 4, 4, 1, 2}
+TryCode.Puzzle("(()) ()") = new int[] {2, 1}
+TryCode.Puzzle("(()) () (()) ()") = new int[] {2, 1, 2, 1}
+TryCode.Puzzle("() (()) ((()))") = new int[] {1, 2, 3}
+TryCode.Puzzle("() () () ()") = new int[] {1, 1, 1, 1}
+TryCode.Puzzle("(((())))") = new int[] {4}
+TryCode.Puzzle("() (()) ()") = new int[] {1, 2, 1}
+TryCode.Puzzle("((())) (((()))) ((()))") = new int[] {3, 4, 3}
+TryCode.Puzzle("() () () ()") = new int[] {1, 1, 1, 1}
+TryCode.Puzzle("(()) () ()") = new int[] {2, 1, 1}

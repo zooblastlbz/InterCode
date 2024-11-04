@@ -1,0 +1,10 @@
+TryCode.Puzzle("edccc") = false
+TryCode.Puzzle("cd") = false
+TryCode.Puzzle("ceeced") = false
+TryCode.Puzzle("aecbdcb") = false
+TryCode.Puzzle("cbcb") = false
+TryCode.Puzzle("eeccbeca") = false
+TryCode.Puzzle("ddebecbcbb") = false
+TryCode.Puzzle("ddbaddc") = false
+TryCode.Puzzle("baadc") = false
+TryCode.Puzzle("aadea") = false

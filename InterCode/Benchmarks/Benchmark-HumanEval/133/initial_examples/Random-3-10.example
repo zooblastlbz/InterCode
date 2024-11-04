@@ -1,0 +1,10 @@
+TryCode.Puzzle(new double[] {-6.97, 74.64, 86.94, 13.75, 25.13}) = 14102
+TryCode.Puzzle(new double[] {54.4, -55.25, -3.22, -30.77, 49.48}) = 9459
+TryCode.Puzzle(new double[] {3.29}) = 16
+TryCode.Puzzle(new double[] {-82.69, -91.91, 58.56, 55.44, 22.81, -12.04}) = 22295
+TryCode.Puzzle(new double[] {37.74, -3.29, -68.42, 3.37, 67.29, -8.6, -65.01, 59.09, -14.04, -55.24}) = 21827
+TryCode.Puzzle(new double[] {64.73, 69.4, -61.77, -55.75, 53.27, -19.6, 11.39}) = 19292
+TryCode.Puzzle(new double[] {31.92, 39.33, 69.49, 56.67, -62.79, 12.47, -99.02}) = 24587
+TryCode.Puzzle(new double[] {16.36, -53.18, -9.6, 56.29, -86.79, 43.63, 22.87}) = 16289
+TryCode.Puzzle(new double[] {-79.94, 79.12, 48.3, -16.77, -13.67, 11.53}) = 15611
+TryCode.Puzzle(new double[] {30.28, 2.31, -97.65, -38.19, 40.27}) = 13504

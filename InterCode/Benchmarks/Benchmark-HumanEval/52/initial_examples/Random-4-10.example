@@ -1,0 +1,10 @@
+TryCode.Puzzle(new int[] {9}, 22) = true
+TryCode.Puzzle(new int[] {95, 36, 44, 76, 65, 14, 36, 31, 52}, 61) = false
+TryCode.Puzzle(new int[] {40, 41, 79, 14, 53, 44, 60, 45, 50}, 92) = true
+TryCode.Puzzle(new int[] {91, 84, 40, 39, 77, 62, 50, 33, 57, 9}, 12) = false
+TryCode.Puzzle(new int[] {78, 54, 32, 91, 76}, 88) = false
+TryCode.Puzzle(new int[] {79}, 25) = false
+TryCode.Puzzle(new int[] {79, 37, 58, 70}, 9) = false
+TryCode.Puzzle(new int[] {28, 21, 83}, 19) = false
+TryCode.Puzzle(new int[] {94, 49, 4, 97, 14, 61}, 33) = false
+TryCode.Puzzle(new int[] {78, 87, 18, 47, 93}, 5) = false

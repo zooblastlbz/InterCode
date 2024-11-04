@@ -1,0 +1,10 @@
+TryCode.Puzzle(4) = false
+TryCode.Puzzle(45) = true
+TryCode.Puzzle(29) = false
+TryCode.Puzzle(22) = false
+TryCode.Puzzle(89) = false
+TryCode.Puzzle(98) = true
+TryCode.Puzzle(20) = true
+TryCode.Puzzle(72) = false
+TryCode.Puzzle(61) = false
+TryCode.Puzzle(56) = false

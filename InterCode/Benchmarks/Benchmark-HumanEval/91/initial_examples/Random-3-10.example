@@ -1,0 +1,10 @@
+TryCode.Puzzle("A dog run with my friends? The cat sit by the lake!") = 0
+TryCode.Puzzle("A bird play on the roof! A dog sit on the roof? A bird stand by the lake! I fly on the roof? The cat sit with my friends?") = 1
+TryCode.Puzzle("The boy play on the roof! The boy stand over the fence. A bird jumps over the fence! The boy run in the garden? The cat fly in the park!") = 0
+TryCode.Puzzle("I stand on the roof! A bird fly in the garden?") = 1
+TryCode.Puzzle("The cat play with my friends? A dog jumps with my friends. The cat sit with my friends! A dog sit with my friends?") = 0
+TryCode.Puzzle("The cat stand on the roof.") = 0
+TryCode.Puzzle("A dog stand in the garden. The girl stand over the fence? A dog jumps in the park! The girl stand with my friends?") = 0
+TryCode.Puzzle("The girl play in the park? A dog sit over the fence? The boy run with my friends?") = 0
+TryCode.Puzzle("The girl jumps on the roof? A dog jumps over the fence! The boy stand by the lake! The girl sit over the fence?") = 0
+TryCode.Puzzle("The boy fly on the roof? I stand in the park.") = 1
